@@ -48,4 +48,3 @@ This project focuses on performing Exploratory Data Analysis (EDA) on the Titani
 
 ---
 
-## 📁 Project Structure
